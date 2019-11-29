@@ -1,10 +1,10 @@
 # csvtorasa
-This will convert CSV file to Rasa acceptable nlu.md file.
+This will convert CSV file to Rasa acceptable file formats.
 
-The standard format to be followed while creating a CSV is shown in nlu_sample_format_for_conversion.csv file. This CSV file is converted  to rasa format nlu.md file.
+The standard format to be followed while creating a CSV is shown in nlu_sample_format_for_conversion.csv file. This CSV file is converted  to rasa format nlu.md and domain.yml file.
 
 
-STEPS TO CREATE nlu.md file:
+STEPS TO CREATE nlu.md & domain.yml file:
 1. Download the whole repo.
 2. Open nlu_sample_format_for_conversion.csv that was downloaded.
 3. First rows consist of intent names. Add any number of intents in the first row.
