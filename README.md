@@ -11,3 +11,7 @@ STEPS TO CREATE nlu.md & domain.yml file:
 4. The succeeding rows. i.e after the intent names row, add all your training phrases/sentences.
 5. save the file
 6. Open csvtorasa.py and call the function/method create_rasa_nlu(path, nlu_md_path). Don't forget to specify path to the CSV file using the path parameter, and path where the output nlu.md file needs to be created via the nlu_md_path parameter.
+
+
+
+Interested in contributing? Please go ahead and address issues or create one.
