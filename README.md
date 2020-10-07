@@ -12,6 +12,6 @@ STEPS TO CREATE nlu.md & domain.yml file:
 5. save the file
 6. Open csvtorasa.py and call the function/method create_rasa_nlu(path, nlu_md_path). Don't forget to specify path to the CSV file using the path parameter, and path where the output nlu.md file needs to be created via the nlu_md_path parameter.
 
-
-
+```diff
 Interested in contributing? Please go ahead and address issues or create one.
+```
